@@ -1,0 +1,5 @@
+{
+  "captainVersion": 4,
+  "composeFile": "docker-compose.yml",
+  "services": {}
+}
